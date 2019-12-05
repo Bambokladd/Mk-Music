@@ -11,7 +11,7 @@
 		unset($_SESSION['username']);
 		header("location: login.php");
 	}
-eeeeee
+eeeeee   \AMA NA FEATURE GRANKATA
 ?>
 <!DOCTYPE html>
 <html>
